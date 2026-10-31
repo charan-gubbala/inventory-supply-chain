@@ -1,0 +1,15 @@
+{
+  "dataset_name": "inventory_supply_chain_starter",
+  "generator_version": "1.0.0",
+  "seed": 20261022,
+  "generation_mode": "starter",
+  "generation_date": "2026-10-31",
+  "configuration": {
+    "num_skus": 10,
+    "num_locations": 3,
+    "num_suppliers": 5,
+    "num_weeks": 4,
+    "num_purchase_orders": 30
+  },
+  "source_provenance": "Deterministically generated synthetic supply chain dataset using Python Faker and NumPy with fixed random seed 20261022."
+}

@@ -1,0 +1,102 @@
+[
+  {
+    "sku_id": "SKU-000001",
+    "name": "Circuit Board Model-1",
+    "category": "ELECTRONICS",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "19.50",
+    "price_per_unit": "29.25",
+    "safety_stock_quantity": "60",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000002",
+    "name": "Protective Jacket Model-2",
+    "category": "APPAREL",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "24.00",
+    "price_per_unit": "36.00",
+    "safety_stock_quantity": "70",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000003",
+    "name": "Hydraulic Valve Model-3",
+    "category": "INDUSTRIAL",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "28.50",
+    "price_per_unit": "42.75",
+    "safety_stock_quantity": "80",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000004",
+    "name": "Vaccine Vial Model-4",
+    "category": "PHARMA",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "33.00",
+    "price_per_unit": "49.50",
+    "safety_stock_quantity": "90",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000005",
+    "name": "Corrugated Crate Model-5",
+    "category": "PACKAGING",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "37.50",
+    "price_per_unit": "56.25",
+    "safety_stock_quantity": "100",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000006",
+    "name": "Circuit Board Model-6",
+    "category": "ELECTRONICS",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "42.00",
+    "price_per_unit": "63.00",
+    "safety_stock_quantity": "110",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000007",
+    "name": "Protective Jacket Model-7",
+    "category": "APPAREL",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "46.50",
+    "price_per_unit": "69.75",
+    "safety_stock_quantity": "120",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000008",
+    "name": "Hydraulic Valve Model-8",
+    "category": "INDUSTRIAL",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "51.00",
+    "price_per_unit": "76.50",
+    "safety_stock_quantity": "130",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000009",
+    "name": "Vaccine Vial Model-9",
+    "category": "PHARMA",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "55.50",
+    "price_per_unit": "83.25",
+    "safety_stock_quantity": "140",
+    "status": "ACTIVE"
+  },
+  {
+    "sku_id": "SKU-000010",
+    "name": "Corrugated Crate Model-10",
+    "category": "PACKAGING",
+    "unit_of_measure": "UNITS",
+    "cost_per_unit": "60.00",
+    "price_per_unit": "90.00",
+    "safety_stock_quantity": "50",
+    "status": "ACTIVE"
+  }
+]

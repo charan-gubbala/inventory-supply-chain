@@ -1,0 +1,1202 @@
+[
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000001-2026W01",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "182",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000001-2026W02",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "420",
+    "demand_type": "SPIKE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000001-2026W03",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "91",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000001-2026W04",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "139",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000002-2026W01",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "194",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000002-2026W02",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "420",
+    "demand_type": "SPIKE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000002-2026W03",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "106",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000002-2026W04",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "146",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000003-2026W01",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "206",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000003-2026W02",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "420",
+    "demand_type": "SPIKE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000003-2026W03",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "108",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000001-LOC-000003-2026W04",
+    "sku_id": "SKU-000001",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "145",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000001-2026W01",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "211",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000001-2026W02",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "207",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000001-2026W03",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "137",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000001-2026W04",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "185",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000002-2026W01",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "240",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000002-2026W02",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "194",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000002-2026W03",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "137",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000002-2026W04",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "188",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000003-2026W01",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "253",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000003-2026W02",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "165",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000003-2026W03",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "137",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000002-LOC-000003-2026W04",
+    "sku_id": "SKU-000002",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "174",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000001-2026W01",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "271",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000001-2026W02",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "235",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000001-2026W03",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "185",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000001-2026W04",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "222",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000002-2026W01",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "296",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000002-2026W02",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "236",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000002-2026W03",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "149",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000002-2026W04",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "229",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000003-2026W01",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "294",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000003-2026W02",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "212",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000003-2026W03",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "180",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000003-LOC-000003-2026W04",
+    "sku_id": "SKU-000003",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "221",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000001-2026W01",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "378",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000001-2026W02",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "269",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000001-2026W03",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "197",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000001-2026W04",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "273",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000002-2026W01",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "373",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000002-2026W02",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "266",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000002-2026W03",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "208",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000002-2026W04",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "263",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000003-2026W01",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "337",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000003-2026W02",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "293",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000003-2026W03",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "201",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000004-LOC-000003-2026W04",
+    "sku_id": "SKU-000004",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "265",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000001-2026W01",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "404",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000001-2026W02",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "297",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000001-2026W03",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "219",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000001-2026W04",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "295",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000002-2026W01",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "392",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000002-2026W02",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "296",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000002-2026W03",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "199",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000002-2026W04",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "321",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000003-2026W01",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "401",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000003-2026W02",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "273",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000003-2026W03",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "214",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000005-LOC-000003-2026W04",
+    "sku_id": "SKU-000005",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "327",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000001-2026W01",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "472",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000001-2026W02",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "382",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000001-2026W03",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "225",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000001-2026W04",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "357",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000002-2026W01",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "444",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000002-2026W02",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "339",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000002-2026W03",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "268",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000002-2026W04",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "339",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000003-2026W01",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "447",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000003-2026W02",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "359",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000003-2026W03",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "249",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000006-LOC-000003-2026W04",
+    "sku_id": "SKU-000006",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "337",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000001-2026W01",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "512",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000001-2026W02",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "386",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000001-2026W03",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "267",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000001-2026W04",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "369",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000002-2026W01",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "511",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000002-2026W02",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "397",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000002-2026W03",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "286",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000002-2026W04",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "389",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000003-2026W01",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "524",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000003-2026W02",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "369",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000003-2026W03",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "270",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000007-LOC-000003-2026W04",
+    "sku_id": "SKU-000007",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "390",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000001-2026W01",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "206",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000001-2026W02",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "147",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000001-2026W03",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "109",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000001-2026W04",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "143",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000002-2026W01",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "200",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000002-2026W02",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "143",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000002-2026W03",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "77",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000002-2026W04",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "135",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000003-2026W01",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "191",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000003-2026W02",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "154",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000003-2026W03",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "112",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000008-LOC-000003-2026W04",
+    "sku_id": "SKU-000008",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "152",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000001-2026W01",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "205",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000001-2026W02",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "189",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000001-2026W03",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "164",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000001-2026W04",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "186",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000002-2026W01",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "240",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000002-2026W02",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "222",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000002-2026W03",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "134",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000002-2026W04",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "156",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000003-2026W01",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "233",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000003-2026W02",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "198",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000003-2026W03",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "138",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000009-LOC-000003-2026W04",
+    "sku_id": "SKU-000009",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "193",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000001-2026W01",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W01",
+    "forecast_quantity": "280",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000001-2026W02",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W02",
+    "forecast_quantity": "240",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000001-2026W03",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W03",
+    "forecast_quantity": "175",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000001-2026W04",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000001",
+    "iso_week": "2026W04",
+    "forecast_quantity": "240",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000002-2026W01",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W01",
+    "forecast_quantity": "296",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000002-2026W02",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W02",
+    "forecast_quantity": "227",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000002-2026W03",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W03",
+    "forecast_quantity": "175",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000002-2026W04",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000002",
+    "iso_week": "2026W04",
+    "forecast_quantity": "233",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000003-2026W01",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W01",
+    "forecast_quantity": "291",
+    "demand_type": "SEASONAL",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000003-2026W02",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W02",
+    "forecast_quantity": "241",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000003-2026W03",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W03",
+    "forecast_quantity": "149",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  },
+  {
+    "demand_id": "DEM-SKU-000010-LOC-000003-2026W04",
+    "sku_id": "SKU-000010",
+    "location_id": "LOC-000003",
+    "iso_week": "2026W04",
+    "forecast_quantity": "233",
+    "demand_type": "BASELINE",
+    "forecast_date": "2026-01-01",
+    "confidence_level": "95.00"
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "scenario_id": "SCENARIO-1",
+    "issue_type": "DUPLICATE_INBOUND",
+    "affected_record_id": "REF-INBOUND-PO-2026-000001",
+    "expected_outcome": "Detect duplicate transaction reference and prevent double counting in inventory",
+    "expected_detection_status": "DETECTED",
+    "expected_decision": "REJECT_TRANSACTION",
+    "explanation": "Subsequent attempt to record identical receipt reference must be rejected and logged to preserve event history."
+  },
+  {
+    "scenario_id": "SCENARIO-2",
+    "issue_type": "UNAPPROVED_SUBSTITUTE",
+    "affected_record_id": "SUB-SKU-000001-SKU-000003-UNAPP",
+    "expected_outcome": "Reject substitution request and do not use its quantity to cover demand",
+    "expected_detection_status": "DETECTED",
+    "expected_decision": "REJECT_SUBSTITUTION",
+    "explanation": "Substitute SKU has UNAPPROVED lifecycle status and must not be presented as a feasible mitigation."
+  },
+  {
+    "scenario_id": "SCENARIO-3",
+    "issue_type": "CAPACITY_EXCEEDED",
+    "affected_record_id": "CAP-SUP-000001-SKU-000001-2026-01-01",
+    "expected_outcome": "Detect supplier capacity violation and reject or flag purchase recommendation",
+    "expected_detection_status": "DETECTED",
+    "expected_decision": "REJECT_ORDER",
+    "explanation": "Supplier order commitments exceed weekly maximum capacity limits."
+  },
+  {
+    "scenario_id": "SCENARIO-4",
+    "issue_type": "MISSING_LEAD_TIME",
+    "affected_record_id": "LANE-SKU-000002-LOC-000002",
+    "expected_outcome": "Flag missing lead-time data and mark mitigation decision as incomplete or blocked",
+    "expected_detection_status": "DETECTED",
+    "expected_decision": "BLOCK_MITIGATION",
+    "explanation": "Delivery date cannot be computed without verified supplier lead time; never assume 0 days."
+  },
+  {
+    "scenario_id": "SCENARIO-5",
+    "issue_type": "UOM_MISMATCH",
+    "affected_record_id": "UOM-MISMATCH-SKU-000001",
+    "expected_outcome": "Detect incompatible units and halt direct arithmetic without approved conversion factor",
+    "expected_detection_status": "DETECTED",
+    "expected_decision": "REJECT_CALCULATION",
+    "explanation": "Direct arithmetic addition of PALLET and UNITS without approved conversion factor is blocked."
+  }
+]

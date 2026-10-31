@@ -1,0 +1,26 @@
+[
+  {
+    "location_id": "LOC-000001",
+    "name": "Central Plant 1",
+    "type": "PLANT",
+    "capacity_units": "155000",
+    "address": "420 Jerry Alley Apt. 033, Danielleville",
+    "status": "ACTIVE"
+  },
+  {
+    "location_id": "LOC-000002",
+    "name": "Central Distribution Center 2",
+    "type": "DISTRIBUTION_CENTER",
+    "capacity_units": "160000",
+    "address": "81397 Brianna Land, New Michael",
+    "status": "ACTIVE"
+  },
+  {
+    "location_id": "LOC-000003",
+    "name": "Central Warehouse 3",
+    "type": "WAREHOUSE",
+    "capacity_units": "165000",
+    "address": "22711 William Passage, Codyburgh",
+    "status": "ACTIVE"
+  }
+]

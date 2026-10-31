@@ -1,0 +1,102 @@
+{
+  "check_timestamp": "2026-10-31T11:37:02.686657",
+  "seed": 20261022,
+  "mode": "starter",
+  "files_checked": 10,
+  "all_row_counts_match": true,
+  "all_checksums_match": true,
+  "file_details": [
+    {
+      "file": "skus.csv",
+      "run1_lines": 11,
+      "run2_lines": 11,
+      "row_match": true,
+      "run1_sha256": "f972b1c71bd90a9d89781c7266c1134199fee275d7fb661a3fd0fd40fe76a551",
+      "run2_sha256": "f972b1c71bd90a9d89781c7266c1134199fee275d7fb661a3fd0fd40fe76a551",
+      "checksum_match": true
+    },
+    {
+      "file": "locations.csv",
+      "run1_lines": 4,
+      "run2_lines": 4,
+      "row_match": true,
+      "run1_sha256": "9828d4a4394b710cf006df754032d6da6cb495d442c63d317d9c3fbe93ff6620",
+      "run2_sha256": "9828d4a4394b710cf006df754032d6da6cb495d442c63d317d9c3fbe93ff6620",
+      "checksum_match": true
+    },
+    {
+      "file": "forecast_demands.csv",
+      "run1_lines": 121,
+      "run2_lines": 121,
+      "row_match": true,
+      "run1_sha256": "e7419ed44049cfdf037de84908df1b2b6d9e6989ea081562b892bc37e74c2965",
+      "run2_sha256": "e7419ed44049cfdf037de84908df1b2b6d9e6989ea081562b892bc37e74c2965",
+      "checksum_match": true
+    },
+    {
+      "file": "inventory_balances.csv",
+      "run1_lines": 121,
+      "run2_lines": 121,
+      "row_match": true,
+      "run1_sha256": "625722258a12be8759af43ac7f4021eb1f41c31e4053a21abab3a952e0dd694f",
+      "run2_sha256": "625722258a12be8759af43ac7f4021eb1f41c31e4053a21abab3a952e0dd694f",
+      "checksum_match": true
+    },
+    {
+      "file": "suppliers.csv",
+      "run1_lines": 6,
+      "run2_lines": 6,
+      "row_match": true,
+      "run1_sha256": "8389665cc7fa33b713095435690106d7a727f73c18d59efebc235cf7242b3d1b",
+      "run2_sha256": "8389665cc7fa33b713095435690106d7a727f73c18d59efebc235cf7242b3d1b",
+      "checksum_match": true
+    },
+    {
+      "file": "supplier_capacities.csv",
+      "run1_lines": 26,
+      "run2_lines": 26,
+      "row_match": true,
+      "run1_sha256": "88336bf54600394bef8a201011d9d6b85b7a33a212f37ed37c87e1daa4b81831",
+      "run2_sha256": "88336bf54600394bef8a201011d9d6b85b7a33a212f37ed37c87e1daa4b81831",
+      "checksum_match": true
+    },
+    {
+      "file": "lead_times.csv",
+      "run1_lines": 74,
+      "run2_lines": 74,
+      "row_match": true,
+      "run1_sha256": "6b55f603a012ab8314ee2f578bf6bfcc176ec5894f1e654b075075d5ae36af70",
+      "run2_sha256": "6b55f603a012ab8314ee2f578bf6bfcc176ec5894f1e654b075075d5ae36af70",
+      "checksum_match": true
+    },
+    {
+      "file": "purchase_orders.csv",
+      "run1_lines": 31,
+      "run2_lines": 31,
+      "row_match": true,
+      "run1_sha256": "a710141fe2fb1fc55e3dabc168b49ce74b50067dea35988f259dc70cce642702",
+      "run2_sha256": "a710141fe2fb1fc55e3dabc168b49ce74b50067dea35988f259dc70cce642702",
+      "checksum_match": true
+    },
+    {
+      "file": "shortages.csv",
+      "run1_lines": 80,
+      "run2_lines": 80,
+      "row_match": true,
+      "run1_sha256": "641c5563c414924b3ca733daad352d8dbf68496fae201de2b961f2f08eaf67a0",
+      "run2_sha256": "641c5563c414924b3ca733daad352d8dbf68496fae201de2b961f2f08eaf67a0",
+      "checksum_match": true
+    },
+    {
+      "file": "mitigation_options.csv",
+      "run1_lines": 443,
+      "run2_lines": 443,
+      "row_match": true,
+      "run1_sha256": "2dc6b88f8434978894d7eae6e91a28ea1ee07f0744e8e8f63dbefab5612155b2",
+      "run2_sha256": "2dc6b88f8434978894d7eae6e91a28ea1ee07f0744e8e8f63dbefab5612155b2",
+      "checksum_match": true
+    }
+  ],
+  "ground_truth_match": true,
+  "reproducibility_verified": true
+}

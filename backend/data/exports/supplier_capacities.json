@@ -1,0 +1,202 @@
+[
+  {
+    "capacity_id": "CAP-SUP-000001-SKU-000001-2026-01-01",
+    "supplier_id": "SUP-000001",
+    "sku_id": "SKU-000001",
+    "max_capacity_per_week": "2500",
+    "allocated_capacity": "3000",
+    "available_capacity": "0"
+  },
+  {
+    "capacity_id": "CAP-SUP-000001-SKU-000002-2026-01-01",
+    "supplier_id": "SUP-000001",
+    "sku_id": "SKU-000002",
+    "max_capacity_per_week": "2500",
+    "allocated_capacity": "300",
+    "available_capacity": "2200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000001-SKU-000003-2026-01-01",
+    "supplier_id": "SUP-000001",
+    "sku_id": "SKU-000003",
+    "max_capacity_per_week": "2500",
+    "allocated_capacity": "300",
+    "available_capacity": "2200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000001-SKU-000004-2026-01-01",
+    "supplier_id": "SUP-000001",
+    "sku_id": "SKU-000004",
+    "max_capacity_per_week": "2500",
+    "allocated_capacity": "300",
+    "available_capacity": "2200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000001-SKU-000005-2026-01-01",
+    "supplier_id": "SUP-000001",
+    "sku_id": "SKU-000005",
+    "max_capacity_per_week": "2500",
+    "allocated_capacity": "300",
+    "available_capacity": "2200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000002-SKU-000002-2026-01-01",
+    "supplier_id": "SUP-000002",
+    "sku_id": "SKU-000002",
+    "max_capacity_per_week": "3000",
+    "allocated_capacity": "300",
+    "available_capacity": "2700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000002-SKU-000003-2026-01-01",
+    "supplier_id": "SUP-000002",
+    "sku_id": "SKU-000003",
+    "max_capacity_per_week": "3000",
+    "allocated_capacity": "300",
+    "available_capacity": "2700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000002-SKU-000004-2026-01-01",
+    "supplier_id": "SUP-000002",
+    "sku_id": "SKU-000004",
+    "max_capacity_per_week": "3000",
+    "allocated_capacity": "300",
+    "available_capacity": "2700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000002-SKU-000005-2026-01-01",
+    "supplier_id": "SUP-000002",
+    "sku_id": "SKU-000005",
+    "max_capacity_per_week": "3000",
+    "allocated_capacity": "300",
+    "available_capacity": "2700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000002-SKU-000006-2026-01-01",
+    "supplier_id": "SUP-000002",
+    "sku_id": "SKU-000006",
+    "max_capacity_per_week": "3000",
+    "allocated_capacity": "300",
+    "available_capacity": "2700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000003-SKU-000003-2026-01-01",
+    "supplier_id": "SUP-000003",
+    "sku_id": "SKU-000003",
+    "max_capacity_per_week": "3500",
+    "allocated_capacity": "300",
+    "available_capacity": "3200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000003-SKU-000004-2026-01-01",
+    "supplier_id": "SUP-000003",
+    "sku_id": "SKU-000004",
+    "max_capacity_per_week": "3500",
+    "allocated_capacity": "300",
+    "available_capacity": "3200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000003-SKU-000005-2026-01-01",
+    "supplier_id": "SUP-000003",
+    "sku_id": "SKU-000005",
+    "max_capacity_per_week": "3500",
+    "allocated_capacity": "300",
+    "available_capacity": "3200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000003-SKU-000006-2026-01-01",
+    "supplier_id": "SUP-000003",
+    "sku_id": "SKU-000006",
+    "max_capacity_per_week": "3500",
+    "allocated_capacity": "300",
+    "available_capacity": "3200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000003-SKU-000007-2026-01-01",
+    "supplier_id": "SUP-000003",
+    "sku_id": "SKU-000007",
+    "max_capacity_per_week": "3500",
+    "allocated_capacity": "300",
+    "available_capacity": "3200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000004-SKU-000004-2026-01-01",
+    "supplier_id": "SUP-000004",
+    "sku_id": "SKU-000004",
+    "max_capacity_per_week": "4000",
+    "allocated_capacity": "300",
+    "available_capacity": "3700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000004-SKU-000005-2026-01-01",
+    "supplier_id": "SUP-000004",
+    "sku_id": "SKU-000005",
+    "max_capacity_per_week": "4000",
+    "allocated_capacity": "300",
+    "available_capacity": "3700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000004-SKU-000006-2026-01-01",
+    "supplier_id": "SUP-000004",
+    "sku_id": "SKU-000006",
+    "max_capacity_per_week": "4000",
+    "allocated_capacity": "300",
+    "available_capacity": "3700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000004-SKU-000007-2026-01-01",
+    "supplier_id": "SUP-000004",
+    "sku_id": "SKU-000007",
+    "max_capacity_per_week": "4000",
+    "allocated_capacity": "300",
+    "available_capacity": "3700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000004-SKU-000008-2026-01-01",
+    "supplier_id": "SUP-000004",
+    "sku_id": "SKU-000008",
+    "max_capacity_per_week": "4000",
+    "allocated_capacity": "300",
+    "available_capacity": "3700"
+  },
+  {
+    "capacity_id": "CAP-SUP-000005-SKU-000005-2026-01-01",
+    "supplier_id": "SUP-000005",
+    "sku_id": "SKU-000005",
+    "max_capacity_per_week": "4500",
+    "allocated_capacity": "300",
+    "available_capacity": "4200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000005-SKU-000006-2026-01-01",
+    "supplier_id": "SUP-000005",
+    "sku_id": "SKU-000006",
+    "max_capacity_per_week": "4500",
+    "allocated_capacity": "300",
+    "available_capacity": "4200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000005-SKU-000007-2026-01-01",
+    "supplier_id": "SUP-000005",
+    "sku_id": "SKU-000007",
+    "max_capacity_per_week": "4500",
+    "allocated_capacity": "300",
+    "available_capacity": "4200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000005-SKU-000008-2026-01-01",
+    "supplier_id": "SUP-000005",
+    "sku_id": "SKU-000008",
+    "max_capacity_per_week": "4500",
+    "allocated_capacity": "300",
+    "available_capacity": "4200"
+  },
+  {
+    "capacity_id": "CAP-SUP-000005-SKU-000009-2026-01-01",
+    "supplier_id": "SUP-000005",
+    "sku_id": "SKU-000009",
+    "max_capacity_per_week": "4500",
+    "allocated_capacity": "300",
+    "available_capacity": "4200"
+  }
+]

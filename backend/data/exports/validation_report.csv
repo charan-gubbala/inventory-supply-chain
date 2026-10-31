@@ -1,0 +1,7 @@
+metric,value
+validation_timestamp,2026-10-31T11:34:09.050851
+total_records_checked,916
+passed_checks,12
+failed_checks,0
+warning_count,3
+anomalies_count,3

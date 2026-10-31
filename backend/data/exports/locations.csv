@@ -1,0 +1,4 @@
+location_id,name,type,capacity_units,address,status
+LOC-000001,Central Plant 1,PLANT,155000,"420 Jerry Alley Apt. 033, Danielleville",ACTIVE
+LOC-000002,Central Distribution Center 2,DISTRIBUTION_CENTER,160000,"81397 Brianna Land, New Michael",ACTIVE
+LOC-000003,Central Warehouse 3,WAREHOUSE,165000,"22711 William Passage, Codyburgh",ACTIVE

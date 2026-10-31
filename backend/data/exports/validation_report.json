@@ -1,0 +1,32 @@
+{
+  "validation_timestamp": "2026-10-31T11:34:09.050851",
+  "total_records_checked": 916,
+  "passed_checks": 12,
+  "failed_checks": 0,
+  "warning_count": 3,
+  "anomalies_detected": [
+    {
+      "type": "CAPACITY_EXCEEDED",
+      "count": 1,
+      "capacity_ids": [
+        "CAP-SUP-000001-SKU-000001-2026-01-01"
+      ]
+    },
+    {
+      "type": "MISSING_LEAD_TIME",
+      "count": 1,
+      "sku_ids": [
+        "SKU-000010"
+      ]
+    },
+    {
+      "type": "UNAPPROVED_SUBSTITUTE",
+      "count": 1,
+      "substitute_ids": [
+        "SUB-SKU-000001-SKU-000003-UNAPP"
+      ]
+    }
+  ],
+  "error_descriptions": [],
+  "affected_record_ids": []
+}
